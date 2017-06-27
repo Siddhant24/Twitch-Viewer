@@ -1,0 +1,19 @@
+body{
+  background-color:rgb(204, 201, 216);
+}
+
+ul{
+  list-style:none;
+}
+
+li{
+  margin: 20px;
+  font-size:30px;
+  color:white;
+  border-radius:10px;
+}
+
+a{
+  margin:5px;
+  color:rgb(19, 11, 48);
+}
